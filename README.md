@@ -64,24 +64,6 @@ This project currently does not specify a license. Please contact the owner for 
 - Integration with real-world payment APIs
 - Improved error handling and logging
 - Detailed documentation and unit tests
-
----
-
-## 🔧 Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/damithch/DamithPayment.git
-   ```
-
-2. **Open in Eclipse**:
-   - Launch Eclipse IDE.
-   - Import the project as a **Java Project**.
-
-3. **Run the Application**:
-   - Navigate to the main class.
-   - Right-click and select **Run As > Java Application**.
-
 ---
 
 ## 🌟 Acknowledgments
