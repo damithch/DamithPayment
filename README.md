@@ -27,10 +27,7 @@ The system is built to simulate basic payment processing while adhering to the M
 
 ## 👥 Contributors
 
-A special thank you to the contributors who made this project possible:
-
 - **damithch** (Owner and Developer)
-
 ---
 
 ## 🔒 License
